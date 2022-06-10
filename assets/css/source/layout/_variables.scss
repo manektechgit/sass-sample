@@ -1,0 +1,26 @@
+
+$body-bg:    #fff !default;
+
+//Fonts settings
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap');
+
+$body-font-family: 'Circular Std';
+$headings-font-family: 'Circular Std';
+
+// Colors
+$primary-color: #1b2341;
+$secondary-color: #478aff;
+$cta-color: #478aff;
+
+// font colors
+$primary-font-color: #fff;  //white
+$secondary-font-color: #24262b;  //normal dark
+$dark-blck:#000; //dark
+$light-grey: #f8f9fa;
+$footer-font-color: rgba(188, 202, 246, 0.5);
+
+// border colors
+$border-color: #e1e5f2;
+
+// transition
+$transition-animate: all ease 0.4s;
